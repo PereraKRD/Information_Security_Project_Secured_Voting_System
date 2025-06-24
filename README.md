@@ -1,21 +1,6 @@
-# 🗳️ Secure Electronic Voting System
+# 🗳️ Secure Digital Voting System
 
 A comprehensive console-based secure voting system demonstrating cryptographic principles and election security protocols.
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Security Properties](#security-properties)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Security Implementation](#security-implementation)
-- [Sample Output](#sample-output)
-- [Development Timeline](#development-timeline)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
