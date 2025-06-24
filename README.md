@@ -89,4 +89,4 @@ SecureVotingSystem/
 
 ## 👨‍💻 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/PereraKRD/Information_Security_Project_Secured_Voting_System.git)
+- **Ryan Perera**  - [Repo](https://github.com/PereraKRD/Information_Security_Project_Secured_Voting_System.git)
