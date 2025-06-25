@@ -73,7 +73,7 @@ public class VotingSystemMain {
         try {
             System.out.println("\n V O T E R   R E G I S T R A T I O N");
             System.out.println("=========================================");
-            System.out.print("Enter Student ID (e.g., STU001234): ");
+            System.out.print("Enter Student ID (e.g., EG/20XX/XXXX): ");
             String studentId = scanner.nextLine().trim();
 
             System.out.println("\nGenerating voter's RSA key pair...");

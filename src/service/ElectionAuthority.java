@@ -68,7 +68,7 @@ public class ElectionAuthority {
     private boolean isEligibleVoter(String studentId) {
         boolean eligible = studentId != null &&
                 studentId.startsWith("EG/20") &&
-                studentId.length() >= 6;
+                studentId.length() >= 6 && studentId.length() <= 12;
 
         System.out.println("Eligibility Check:");
         System.out.println("   • Student ID: " + studentId);
